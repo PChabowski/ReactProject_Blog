@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Post({ post }) {
+export default function PostDetail({ post }) {
     return (
         <div>
             <h1>{post.title}</h1>
