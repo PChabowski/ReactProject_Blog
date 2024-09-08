@@ -3,7 +3,7 @@ import React from "react";
 export default function Post({ post, onClick }) {
     return (
         <div 
-        className="post-preview"
+        className="post post-preview"
         onClick={onClick} 
         >
             <h2>{post.title}</h2>

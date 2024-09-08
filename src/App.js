@@ -15,7 +15,7 @@ function App() {
       ) : (
         <PostList onPostClick={setSelectedPostId} />
       )}
-      { selectedPost && <button onClick={() => setSelectedPostId(null)}>Back to list</button>}
+      { selectedPost && <button className="button" onClick={() => setSelectedPostId(null)}>Back to list</button>}
     </div>
   );
 }
