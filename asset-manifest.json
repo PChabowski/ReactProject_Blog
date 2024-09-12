@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//pchabowski.github.io/ReactProject_Blog/static/css/main.1372a0ce.css",
+    "main.js": "//pchabowski.github.io/ReactProject_Blog/static/js/main.fd31e0e4.js",
+    "index.html": "//pchabowski.github.io/ReactProject_Blog/index.html",
+    "main.1372a0ce.css.map": "//pchabowski.github.io/ReactProject_Blog/static/css/main.1372a0ce.css.map",
+    "main.fd31e0e4.js.map": "//pchabowski.github.io/ReactProject_Blog/static/js/main.fd31e0e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1372a0ce.css",
+    "static/js/main.fd31e0e4.js"
+  ]
+}
